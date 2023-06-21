@@ -1,0 +1,22 @@
+:root{
+    --primary-color: #0f171e;
+    --secondary-color: #1a242f;
+    --font-primary:#fff;
+    --font-secondary: #79b8f3;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "open sans", sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: var(--primary-color);
+}
+.container{
+    margin: 0 2rem;
+}
